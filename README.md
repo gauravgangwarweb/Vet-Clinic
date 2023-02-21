@@ -73,6 +73,13 @@ Clone this [repository](https://github.com/gauravgangwarweb/Vet-Clinic.git) to y
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🔭 Future Features <a name="future-features"></a>
+
+- Add some more columns
+- Add some more rows
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
