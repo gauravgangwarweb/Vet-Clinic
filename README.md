@@ -66,7 +66,7 @@ Clone this [repository](https://github.com/gauravgangwarweb/Vet-Clinic.git) to y
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
-👤 **Rohit Bhatt**
+👤 **Gaurav Gangwar**
 
 - GitHub: [@gauravgangwarweb](https://github.com/gauravgangwarweb)
 - LinkedIn: [@gauravgangwarweb](https://www.linkedin.com/in/gauravgangwarweb/)
