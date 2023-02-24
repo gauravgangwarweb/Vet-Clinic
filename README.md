@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 <div align="center">
 
-  <img src="https://imgur.com/ILae05B" alt="logo" width="140"  height="auto" />
+  <img src="./GD.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>SQL DATABASE</b></h3>
